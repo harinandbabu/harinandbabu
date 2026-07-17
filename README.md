@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Harinand Babu
 
-<!--
-**harinandbabu/harinandbabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science  
+💻 Passionate about AI, Machine Learning & Software Development  
+🌱 Currently learning Python, C, SQL, Git & GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🐍 Learning Python for AI & Automation
+- 💻 Exploring C Programming & SQL
+- 📚 Building my coding skills one project at a time
+- 🎯 Goal: Become a Machine Learning Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+💙 Languages
+- Python
+- C
+- SQL
+
+🧰 Tools
+- Git
+- GitHub
+- VS Code
+- MySQL
+
+---
+
+## 📌 Current Goals
+
+- ✅ Master Python
+- ✅ Learn Data Structures & Algorithms
+- ✅ Build 15+ Quality Projects
+- ✅ Learn Machine Learning
+- ✅ Contribute to Open Source
+
+---
+
+## 📂 Featured Projects
+
+🔹 Python Projects *(Coming Soon)*  
+🔹 C Programming *(Coming Soon)*  
+🔹 SQL Projects *(Coming Soon)*  
+🔹 Machine Learning Projects *(Coming Soon)*
+
+---
+
+## 📈 GitHub Journey
+
+> *"Every commit is one step closer to becoming a better developer."*
+
+---
+
+## 📫 Connect With Me
+
+🐙 GitHub: https://github.com/harinandbabu
+
+---
+
+⭐ **Thanks for visiting my profile!**
+If you like my work, don't forget to ⭐ my repositories.
